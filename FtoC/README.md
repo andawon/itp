@@ -1,4 +1,4 @@
-#FtoC Assignment
+# FtoC Assignment
 
 ## Writing the Code
 I wrote the following code in the file FtoC.js
@@ -8,6 +8,6 @@ let f = 99; // Fahrenheit temp //I used let instead of const for the sake of cod
 let c = (f-32) * 5 / 9; // Conversion formula to Celsius
 console.log(f + "Fahrenheit is" + c + "Celsius");
 
-###Run the Code
+### Run the Code
 
 Result: 99 Fahrenheit is 37.22222222222222celsius

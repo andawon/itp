@@ -1,4 +1,4 @@
-#FizzBuzz Assignment
+# FizzBuzz Assignment
 
 ## Writing the Code
 

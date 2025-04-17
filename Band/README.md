@@ -1,7 +1,7 @@
 # Band Website Project
 
 ## Website Link  
-
+https://lilithmode.github.io/
 
 ## Problems Faced and Decisions Made  
 At first, we had to decide what kind of band we are.  

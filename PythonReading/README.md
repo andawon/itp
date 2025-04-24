@@ -36,5 +36,3 @@
 
 - Something I learned 
   I learned that lists have many built-in methods like `append` and `sort` that make them powerful and flexible.
-
--
